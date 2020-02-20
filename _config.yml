@@ -1,0 +1,9 @@
+name:          Code Guide
+description:   Standards for developing flexible, durable, and sustainable HTML and CSS, and maintainable JavaScript
+url:           https://github.com/dy21335/code_guide
+
+include:       [".editorconfig", ".jscsrc", ".jshintrc", ".csslintrc", ".scss-lint.yml"]
+
+markdown:      rdiscount
+permalink:     pretty
+pygments:      true
